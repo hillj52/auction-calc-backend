@@ -1,0 +1,33 @@
+name,team,byeWeek,value
+Tampa Bay Buccaneers,TB,9,$2
+Los Angeles Rams,LAR,11,$2
+Pittsburgh Steelers,PIT,7,$2
+Washington Football Team,WAS,9,$1
+Indianapolis Colts,IND,14,$1
+Baltimore Ravens,BAL,8,$1
+Philadelphia Eagles,PHI,14,$1
+New Orleans Saints,NO,6,$1
+Arizona Cardinals,ARI,12,$1
+Seattle Seahawks,SEA,9,$1
+New England Patriots,NE,14,$1
+Green Bay Packers,GB,13,$1
+Dallas Cowboys,DAL,7,$1
+Carolina Panthers,CAR,13,$1
+Miami Dolphins,MIA,14,$0
+Kansas City Chiefs,KC,12,$0
+San Francisco 49ers,SF,6,$0
+Buffalo Bills,BUF,7,$0
+Cleveland Browns,CLE,13,$0
+Denver Broncos,DEN,11,$0
+New York Giants,NYG,10,$0
+Los Angeles Chargers,LAC,7,$0
+Atlanta Falcons,ATL,6,$0
+Minnesota Vikings,MIN,7,$0
+Chicago Bears,CHI,10,$0
+Tennessee Titans,TEN,13,$0
+New York Jets,NYJ,6,$0
+Jacksonville Jaguars,JAC,7,$0
+Las Vegas Raiders,LV,8,$0
+Detroit Lions,DET,9,$0
+Houston Texans,HOU,10,$0
+Cincinnati Bengals,CIN,10,$0
